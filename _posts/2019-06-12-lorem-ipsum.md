@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "The Open-Source Sex Toy Site"
+date:   2019-06-12 21:04:50 -0700
+categories: 
 ---
 
 Hello. Welcome to the place that will become Open Source Sex Toy Dot Com. If you have concerns or suggestions, you can e-mail heyspacebuck at gmail dot co<span style="letter-spacing:-1px">rn</span>. Any offers of assistance with web design would be appreciated; I am very bad at using the CSS @media property.
